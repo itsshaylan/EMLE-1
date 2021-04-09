@@ -184,7 +184,7 @@ body {color:#b1b1b1; font-family:Verdana, Geneva, sans-serif; font-size:12px; }
 
 /* footer end*/
 
-@media screen and (max-width:2500px) { 
+@media screen and (max-width:3000px) { 
 	.fast-left {padding: 9% 0 0 0;}
 	.save-right {padding: 9% 91px 0 0;}
 }
